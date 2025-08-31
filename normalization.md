@@ -113,10 +113,6 @@
 
 ---
 
-## ERD (Entity Relationship Diagram)
-
-![Normalized Schema ERD](normalized_schema.png)
-
 ---
 
 ## Summary
