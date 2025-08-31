@@ -28,16 +28,3 @@ This folder contains SQL scripts and documentation for the initial setup and man
 4. **Sample Data Insertion:**
 
    - Inserted sample records to test the schema.
-
-5. **Query Scripts:**
-   - Provided example queries for retrieving and manipulating data.
-
-## Usage
-
-1. Clone the repository.
-2. Run the SQL scripts in order using your preferred SQL client.
-3. Refer to comments within each script for specific instructions.
-
-## Author
-
-Project developed as part of the ALX Software Engineering Program.

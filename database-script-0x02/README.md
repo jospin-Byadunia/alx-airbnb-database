@@ -63,11 +63,3 @@ This sample dataset is designed to:
 - Simulate real-world platform activity for development and testing.
 
 ---
-
-## ⚡ Usage
-
-To load this data into your PostgreSQL database, run:
-
-```sql
-\i sample_data.sql
-```
